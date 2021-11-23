@@ -86,7 +86,7 @@ WSGI_APPLICATION = 'lostandfoundweb.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'lostandfound',
+        'NAME': 'heroku_3b98af87da19e23',
         'USER': 'b107510d4dc006',
         'PASSWORD': 'ec622472',
         'HOST': '127.0.0.1',
