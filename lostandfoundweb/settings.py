@@ -27,7 +27,9 @@ SECRET_KEY = 'django-insecure-grmwek5&n7&3&%o*)h$brz*p93a!gn)@7y!q@_*oi%q)p)rhv+
 DEBUG = True
 
 #ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['lost-found-tera.herokuapp.com']
+ALLOWED_HOSTS = ['lost-found-tera.herokuapp.com',
+'localhost',
+'127.0.0.1']
 
 
 # Application definition
