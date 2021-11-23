@@ -91,7 +91,7 @@ DATABASES = {
         'NAME': 'heroku_3b98af87da19e23',
         'USER': 'b107510d4dc006',
         'PASSWORD': 'ec622472',
-        'HOST': '127.0.0.1',
+        'HOST': 'b107510d4dc006:ec622472@us-cdbr-east-04.cleardb.com',
         'PORT': 3306,
     }
 }
