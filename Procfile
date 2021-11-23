@@ -1,1 +1,1 @@
-web: gunicorn lost-found-tera.wsgi
+web: gunicorn lostandfoundweb.wsgi
