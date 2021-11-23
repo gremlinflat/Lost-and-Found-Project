@@ -3,3 +3,4 @@ djangorestframework
 pymysql
 django-crispy-forms
 Pillow
+django-heroku
